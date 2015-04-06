@@ -5,7 +5,9 @@ body {
 	background-image: url(https://raw.githubusercontent.com/SSFX/ssfx.github.io/master/images/tweed_%402X.png);
 }
 
-body h1{
+body h1 {
+	color: #456456;
+	font-weight: bold;
     text-align: center;
 }
 
