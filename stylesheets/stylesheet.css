@@ -1,5 +1,10 @@
+body {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 body h1{
     color: #456456;
-    font-style: italic;
     font-family: tahoma;
 }
